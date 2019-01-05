@@ -2,8 +2,6 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-USERNAME = 'DangeFloof'
-PASSWORD = '33031233'
 MESSAGE = "This comment has been overwritten by an open source script to protect this user's privacy.  \nIf you would like to do the same, simply run [this python script]()"
 
 driver = webdriver.Firefox()
