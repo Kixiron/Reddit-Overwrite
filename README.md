@@ -6,7 +6,7 @@ To install Selenium, follow this [handy guide](https://selenium-python.readthedo
 
 Requirements:
 
-* [Python 3.5](https://www.python.org/downloads/release/python-356/)
+* [Python 3.5 or higher](https://www.python.org/downloads/release/python-356/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Selenium](https://pypi.org/project/selenium/)
 * [geckodriver](https://github.com/mozilla/geckodriver/releases)
