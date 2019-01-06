@@ -2,7 +2,7 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-MESSAGE = "This comment has been overwritten by an open source script to protect this user's privacy.  \nIf you would like to do the same, simply run [this python script](https://github.com/Kixiron/Reddit-Overwrite)"
+MESSAGE = "This comment was deleted to protect the original poster's privacy and security.  \nIf you also value your privacy, you can do the same by simply running [this python script](https://github.com/Kixiron/Reddit-Overwrite)"
 
 def login():
     print('Please input login info for Reddit (This is not stored or transmitted)')
